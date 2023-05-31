@@ -42,7 +42,7 @@ void insertion(int *a,int n){
           display(a,i);
         }
       a[j+1] = temp;
-      cout<<endl;
+     cout<<endl;
       cout<<"result:";
       display(a,i+1);
       cout<<endl;
